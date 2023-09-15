@@ -1,0 +1,5 @@
+CUSTOMERID,FIRSTNAME,LASTNAME,EMAIL,ADDRESS,CITY,ORDERID,ORDERDATE
+101,SUNIL,MEHTA,sunil@abc.com,NO10 Downstreet,Melbourne,51,02-09-2023
+102,GOKUL,VARMA,gokul@abc.com,White fort,Cochin,51,02-09-2023
+103,SHIV,SHAKTHI,sivdev@abc.com,Gnga,HIMACHAL,51,02-09-2023
+104,Anupama,Anil,anupama@gmail.com,,Cochin,52,09-09-2023

@@ -1,0 +1,4 @@
+ORDERID,AMOUNT,PAYMENT_METHOD
+51,500,credit_card
+52,10000,credit_card
+53,6620,credit_card
